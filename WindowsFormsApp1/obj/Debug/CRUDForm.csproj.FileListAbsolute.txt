@@ -1,0 +1,10 @@
+C:\Users\AA ANSARI\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\AA ANSARI\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\AA ANSARI\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\AA ANSARI\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CRUDForm.csproj.AssemblyReference.cache
+C:\Users\AA ANSARI\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\AA ANSARI\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CRUDForm.csproj.GenerateResource.cache
+C:\Users\AA ANSARI\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CRUDForm.csproj.CoreCompileInputs.cache
+C:\Users\AA ANSARI\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\AA ANSARI\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\AA ANSARI\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CRUD.resources
