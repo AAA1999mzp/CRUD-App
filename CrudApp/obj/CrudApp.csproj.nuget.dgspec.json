@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AA ANSARI\\source\\repos\\CrudApp\\CrudApp\\CrudApp.csproj": {}
+    "C:\\Users\\AA ANSARI\\Documents\\GitHub\\CRUD-App\\CrudApp\\CrudApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AA ANSARI\\source\\repos\\CrudApp\\CrudApp\\CrudApp.csproj": {
+    "C:\\Users\\AA ANSARI\\Documents\\GitHub\\CRUD-App\\CrudApp\\CrudApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AA ANSARI\\source\\repos\\CrudApp\\CrudApp\\CrudApp.csproj",
+        "projectUniqueName": "C:\\Users\\AA ANSARI\\Documents\\GitHub\\CRUD-App\\CrudApp\\CrudApp.csproj",
         "projectName": "CrudApp",
-        "projectPath": "C:\\Users\\AA ANSARI\\source\\repos\\CrudApp\\CrudApp\\CrudApp.csproj",
+        "projectPath": "C:\\Users\\AA ANSARI\\Documents\\GitHub\\CRUD-App\\CrudApp\\CrudApp.csproj",
         "packagesPath": "C:\\Users\\AA ANSARI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AA ANSARI\\source\\repos\\CrudApp\\CrudApp\\obj\\",
+        "outputPath": "C:\\Users\\AA ANSARI\\Documents\\GitHub\\CRUD-App\\CrudApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
